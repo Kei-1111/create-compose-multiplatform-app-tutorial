@@ -1,3 +1,9 @@
+## 概要
+[Compose Multiplatformのチュートリアル](https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-multiplatform-getting-started.html)を行った際に作ったプロジェクトです。
+Webをやりたかったので、Webについて行っているStep4まで行いました。
+
+------------------------------------------------------------------------
+
 This is a Kotlin Multiplatform project targeting Android, iOS, Web.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
